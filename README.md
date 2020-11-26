@@ -8,5 +8,3 @@
 - Import/Export
 - Modules
 - Manipulação da DOM
-
-Eu disse que era simples 🤷🏽
