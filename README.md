@@ -8,3 +8,6 @@
 - Import/Export
 - Modules
 - Manipulação da DOM
+
+---
+Feito com ❤️ por Lohana Torres.
